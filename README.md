@@ -1,2 +1,4 @@
 # aimbot
-the script is not done yet.
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Asyrantheyt/aimbot/main/script.lua",true)()
+```
